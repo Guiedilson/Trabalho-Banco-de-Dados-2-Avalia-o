@@ -2,7 +2,7 @@
 
 ## Identificação
 
-- **Integrante:** preencher com o nome do aluno
+- **Integrante:** Guilherme Edilson de Almeida Cavalcante Soares
 - **Disciplina:** Projeto de Banco de Dados
 - **Professor:** Anderson Costa
 
